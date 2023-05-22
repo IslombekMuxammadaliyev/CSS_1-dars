@@ -1,0 +1,60 @@
+body{
+    background-color: brown;
+    background-image: url("../rasmlar/tabiat.jpg");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: 100px 200px
+    
+}
+.box{
+    color: white;
+    border: 5px solid white;
+    /*border-width: 5px;
+    border-style: solid;
+    border-color: white;*/
+    /*border-top-width: 10px;
+    border-right-width: 12px;
+    border-bottom-width: 15px;
+    border-left-width: 17px;
+    border-top-style: double;
+    border-right-style: double;
+    border-bottom-style: double;
+    border-left-style: double;
+    border-top-color: green;
+    border-right-color: black;
+    border-bottom-color: blue;
+    border-left-color: aqua;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;*/
+    text-align: left;
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: 5px;
+    word-spacing: 20px;
+    line-height: 10px;
+}
+.block{
+    background-color: white;
+    width: 500px;
+    height: 200px;
+    /*min-width: 50px;
+    min-height: 50px;
+    max-width: 500px;
+    max-height: 200px;*/
+   /* margin: 50px 100px 150px 75px;*/
+/*    margin-top: 50px;
+    margin-right: 100px;
+    margin-bottom: 150px;
+    margin-left: 75px;*/
+    margin: 100px auto;
+    /*padding: 50px 100px 75px 35px;*/
+    padding-top:50px ;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
